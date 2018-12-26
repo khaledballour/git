@@ -17,10 +17,9 @@ public class Git {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("hello2");
-        System.out.println("hello55");
+       int a = 5 ;
+        System.out.println(a);
         
-        System.out.println("hello44");
             
         
     }
